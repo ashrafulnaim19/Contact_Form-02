@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #92B9BA;
+}
+.form{
+
+display: flex;
+
+justify-content: space-between;
+
+width: 60%;
+
+margin: auto;
+
+padding: 150px;
+}
+.send_message{
+
+background-color: #fff;
+
+width: 60%;
+
+padding: 30px;
+}
+form{
+
+}
+form h2{
+
+margin-bottom: 30px;
+}
+form .name{
+
+display: flex;
+
+justify-content: space-between;
+}
+form .name div{
+
+width: 100%;
+}
+form label{
+}
+form input{
+
+border: none;
+
+background: transparent;
+
+padding: 5px 0;
+
+border-bottom: 1px solid black;
+
+margin-bottom: 30px;
+
+margin-top: 20px;
+
+width: 95%;
+}
+form .phone{
+
+display: flex;
+
+justify-content: space-between;
+}
+form .phone div{
+
+width: 100%;
+}
+form div{
+
+}
+form textarea{
+
+background: transparent;
+
+padding: 10px 0;
+
+border: none;
+
+border-bottom: 1px solid black;
+
+width: 98%;
+}
+.button{
+    
+border: 1px solid black;
+    
+width: 25%;
+    
+height: 50px;
+    
+text-align: center;
+    
+background-color: #39487A;
+    
+color: #fff;
+}
+.contact_info{
+
+background-color: #39487A;
+
+color: #fff;
+
+padding: 30px;
+}
+.contact_info h2{
+
+margin-bottom: 30px;
+}
+.contact_info p{
+
+margin-bottom: 30px;
+}
+.contact_info a{
+
+color: #fff;
+
+margin-right: 20px;
+}
+.contact_info div{display: flex;}
